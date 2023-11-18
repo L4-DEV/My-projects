@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GeekLifeAPI</name>
+    </assembly>
+    <members>
+        <member name="M:GeekLifeAPI.Controllers.CategoriaController.PostCategoria(GeekLifeAPI.Dtos.CategoriaDtos.CreateCategoriaDto)">
+            <summary>
+            Cria uma nova categoria.
+            </summary>
+            <param name="categoriaDto">Os dados da categoria a ser criada.</param>
+            <returns>
+            Um objeto Categoria recém-criado, se a operação for bem-sucedida.
+            </returns>
+            <response code="201">Retorna o objeto Categoria recém-criado.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CategoriaController.GetAllCategorias(System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Obtém uma lista de categorias com opções de paginação, filtragem e ordenação.
+            </summary>
+            <param name="skip">O número de itens a serem ignorados (pulados).</param>
+            <param name="take">O número máximo de itens a serem retornados.</param>
+            <param name="status">O status das categorias a serem filtradas, ativo (true) e inativo (false).</param>
+            <param name="ordenacao">O critério de ordenação das categorias, crescente ou decrescente.</param>
+            <param name="nome">O nome das categorias a serem filtradas.</param>
+            <returns>
+            Um objeto contendo a lista de categorias de acordo com os parâmetros fornecidos.
+            </returns>
+            /// <response code="200">Retorna a lista de categorias de acordo com os parâmetros fornecidos.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar os recursos solicitados.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CategoriaController.GetCategoriaById(System.Int32)">
+            <summary>
+            Obtém uma categoria por ID.
+            </summary>
+            <param name="id">O ID da categoria a ser obtida.</param>
+            <returns>
+            Um objeto contendo os dados da categoria correspondente ao ID fornecido.
+            </returns>
+            <response code="200">Retorna os dados da categoria correspondente ao ID fornecido.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar a categoria solicitada.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CategoriaController.PutCategoria(System.Int32,GeekLifeAPI.Dtos.CategoriaDtos.UpdateCategoriaDto)">
+            <summary>
+            Atualiza uma categoria completa por ID.
+            </summary>
+            <param name="id">O ID da categoria a ser atualizada.</param>
+            <param name="categoriaDto">Os dados atualizados da categoria.</param>
+            <returns>
+            Um objeto contendo os dados atualizados da categoria após a operação.
+            </returns>
+            <response code="200">Retorna os dados atualizados da categoria após a operação.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar a categoria para atualização.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CategoriaController.PatchCategoria(System.Int32,GeekLifeAPI.Dtos.CategoriaDtos.UpdateCategoriaDtoPatch)">
+            <summary>
+            Atualiza parcialmente uma categoria por ID.
+            </summary>
+            <param name="id">O ID da categoria a ser parcialmente atualizada.</param>
+            <param name="categoriaDto">Os dados parcialmente atualizados da categoria.</param>
+            <returns>
+            Um objeto contendo os dados parcialmente atualizados da categoria após a operação.
+            </returns>
+            <response code="200">Retorna os dados parcialmente atualizados da categoria após a operação.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar a categoria para atualização parcial.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CategoriaController.DeleteCategoria(System.Int32)">
+            <summary>
+            Deleta uma categoria por ID.
+            </summary>
+            <param name="id">O ID da categoria a ser deletada.</param>
+            <returns>
+            Uma mensagem indicando que a categoria com o ID fornecido foi deletada.
+            </returns>
+            <response code="200">Retorna uma mensagem indicando que a categoria foi deletada com sucesso.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar a categoria para deleção.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CDController.PostCD(GeekLifeAPI.Dtos.CDDtos.CreateCDDto)">
+            <summary>
+            Cria um novo centro de distribuição.
+            </summary>
+            <param name="cdDto">Os dados do cd a ser criado.</param>
+            <returns>
+            Um objeto CD recém-criado, se a operação for bem-sucedida.
+            </returns>
+            <response code="201">Retorna o objeto CD recém-criado.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CDController.GetAllCDs(System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Obtém uma lista de centros de distribuição com opções de paginação, filtragem e ordenação.
+            </summary>
+            <param name="skip">O número de itens a serem ignorados (pulados).</param>
+            <param name="take">O número máximo de itens a serem retornados.</param>
+            <param name="status">O status dos cds a serem filtrados, ativo (true) e inativo (false).</param>
+            <param name="ordenacao">O critério de ordenação dos cds, crescente ou decrescente..</param>
+            <param name="nome">O nome dos cds a serem filtradas.</param>
+            <returns>
+            Um objeto contendo a lista de cds de acordo com os parâmetros fornecidos.
+            </returns>
+            /// <response code="200">Retorna a lista de cds de acordo com os parâmetros fornecidos.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar os recursos solicitados.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CDController.GetCDById(System.Int32)">
+            <summary>
+            Obtém um centro de distribuição por ID.
+            </summary>
+            <param name="id">O ID do cd a ser obtido.</param>
+            <returns>
+            Um objeto contendo os dados do cd correspondente ao ID fornecido.
+            </returns>
+            <response code="200">Retorna os dados do cd correspondente ao ID fornecido.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar o cd solicitado.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CDController.PutCD(System.Int32,GeekLifeAPI.Dtos.CCDDtos.UpdateCDDto)">
+            <summary>
+            Atualiza um centro de distribuição completo por ID.
+            </summary>
+            <param name="id">O ID do cd a ser atualizado.</param>
+            <param name="cdDto">Os dados atualizados do cd.</param>
+            <returns>
+            Um objeto contendo os dados atualizados do cd após a operação.
+            </returns>
+            <response code="200">Retorna os dados atualizados do cd após a operação.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar o cd para atualização.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CDController.PatchCD(System.Int32,GeekLifeAPI.Dtos.CDDtos.UpdateCDDtoPatch)">
+            <summary>
+            Atualiza parcialmente um centro de distribuição por ID.
+            </summary>
+            <param name="id">O ID do cd a ser parcialmente atualizado.</param>
+            <param name="cdDto">Os dados parcialmente atualizados do cd.</param>
+            <returns>
+            Um objeto contendo os dados parcialmente atualizados do cd após a operação.
+            </returns>
+            <response code="200">Retorna os dados parcialmente atualizados do cd após a operação.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar o cd para atualização parcial.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CDController.DeleteCD(System.Int32)">
+            <summary>
+            Deleta um centro de distribuição por ID.
+            </summary>
+            <param name="id">O ID do cd a ser deletado.</param>
+            <returns>
+            Uma mensagem indicando que o cd com o ID fornecido foi deletado.
+            </returns>
+            <response code="200">Retorna uma mensagem indicando que o cd foi deletado com sucesso.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar o cd para deleção.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.CepController.ListarDadosEndereco(System.String)">
+            <summary>
+            Obtém os dados de endereço a partir de um CEP.
+            </summary>
+            <param name="cep">O CEP para o qual os dados de endereço serão obtidos.</param>
+            <returns>
+            Um objeto contendo os dados de endereço correspondentes ao CEP fornecido.
+            </returns>
+            <response code="200">Retorna os dados de endereço correspondentes ao CEP fornecido.</response>
+            <response code="400">Retorna um erro indicando que o CEP não foi encontrado.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.ProdutoController.PostProduto(GeekLifeAPI.Dtos.ProdutoDtos.CreateProdutoDto)">
+            <summary>
+            Cria um novo produto.
+            </summary>
+            <param name="produtoDto">Os dados do produto a ser criado.</param>
+            <returns>
+            Um objeto Produto recém-criado, se a operação for bem-sucedida.
+            </returns>
+            <response code="201">Retorna o objeto Produto recém-criado.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.ProdutoController.GetAllProdutos(System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Obtém uma lista de produtos  com opções de paginação, filtragem e ordenação.
+            </summary>
+            <param name="skip">O número de itens a serem ignorados (pulados).</param>
+            <param name="take">O número máximo de itens a serem retornados.</param>
+            <param name="status">O status dos produtos a serem filtrados, ativo (true) e inativo (false).</param>
+            <param name="ordenacao">O critério de ordenação dos produtos, crescente ou decrescente.</param>
+            <param name="nome">O nome dos produtos a serem filtrados.</param>
+            <returns>
+            Um objeto contendo a lista de produtos de acordo com os parâmetros fornecidos.
+            </returns>
+            /// <response code="200">Retorna a lista de produtos de acordo com os parâmetros fornecidos.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar os recursos solicitados.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.ProdutoController.GetProdutoById(System.Int32)">
+            <summary>
+            Obtém um produto por ID.
+            </summary>
+            <param name="id">O ID do produto a ser obtido.</param>
+            <returns>
+            Um objeto contendo os dados do produto correspondente ao ID fornecido.
+            </returns>
+            <response code="200">Retorna os dados do produto correspondente ao ID fornecido.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar o produto solicitado.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.ProdutoController.PutProduto(System.Int32,GeekLifeAPI.Dtos.ProdutoDtos.UpdateProdutoDto)">
+            <summary>
+            Atualiza um produto completo por ID.
+            </summary>
+            <param name="id">O ID do produto  a ser atualizado.</param>
+            <param name="produtoDto">Os dados atualizados do produto .</param>
+            <returns>
+            Um objeto contendo os dados atualizados do produto  após a operação.
+            </returns>
+            <response code="200">Retorna os dados atualizados do produto  após a operação.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar o produto para atualização.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.ProdutoController.PatchProduto(System.Int32,GeekLifeAPI.Dtos.ProdutoDtos.UpdateProdutoDtoPatch)">
+            <summary>
+            Atualiza parcialmente um produto por ID.
+            </summary>
+            <param name="id">O ID do produto a ser parcialmente atualizado.</param>
+            <param name="produtoDto">Os dados parcialmente atualizados do produto.</param>
+            <returns>
+            Um objeto contendo os dados parcialmente atualizados do produto após a operação.
+            </returns>
+            <response code="200">Retorna os dados parcialmente atualizados do produto após a operação.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar o produto para atualização parcial.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.ProdutoController.DeleteProduto(System.Int32)">
+            <summary>
+            Deleta um produto por ID.
+            </summary>
+            <param name="id">O ID do produto a ser deletado.</param>
+            <returns>
+            Uma mensagem indicando que oproduto com o ID fornecido foi deletado.
+            </returns>
+            <response code="200">Retorna uma mensagem indicando que o produto foi deletado com sucesso.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar o produto para deleção.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.SubController.PostSub(GeekLifeAPI.Dtos.SubDtos.CreateSubDto)">
+            <summary>
+            Cria uma nova subcategoria.
+            </summary>
+            <param name="subDto">Osb dados da sub a ser criada.</param>
+            <returns>
+            Um objeto Sub recém-criado, se a operação for bem-sucedida.
+            </returns>
+            <response code="201">Retorna o objeto sub recém-criado.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.SubController.GetAllSubs(System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Obtém uma lista de subcategorias com opções de paginação, filtragem e ordenação.
+            </summary>
+            <param name="skip">O número de itens a serem ignorados (pulados).</param>
+            <param name="take">O número máximo de itens a serem retornados.</param>
+            <param name="status">O status das subs a serem filtradas, ativo (true) e inativo (false).</param>
+            <param name="ordenacao">O critério de ordenação das subs, crescente ou decrescente.</param>
+            <param name="nome">O nome das subs a serem filtradas.</param>
+            <returns>
+            Um objeto contendo a lista de subs de acordo com os parâmetros fornecidos.
+            </returns>
+            /// <response code="200">Retorna a lista de subs de acordo com os parâmetros fornecidos.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar os recursos solicitados.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.SubController.GetSubById(System.Int32)">
+            <summary>
+            Obtém uma subcategoria por ID.
+            </summary>
+            <param name="id">O ID da sub a ser obtida.</param>
+            <returns>
+            Um objeto contendo os dados da sub correspondente ao ID fornecido.
+            </returns>
+            <response code="200">Retorna os dados da sub correspondente ao ID fornecido.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar a sub solicitada.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.SubController.PutSub(System.Int32,GeekLifeAPI.Dtos.SubDtos.UpdateSubDto)">
+            <summary>
+            Atualiza uma subcategoria completa por ID.
+            </summary>
+            <param name="id">O ID da sub a ser atualizada.</param>
+            <param name="subDto">Os dados atualizados da sub.</param>
+            <returns>
+            Um objeto contendo os dados atualizados da sub após a operação.
+            </returns>
+            <response code="200">Retorna os dados atualizados da sub após a operação.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar a sub para atualização.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.SubController.PatchSub(System.Int32,GeekLifeAPI.Dtos.SubDtos.UpdateSubDtoPatch)">
+            <summary>
+            Atualiza parcialmente uma subcategoria por ID.
+            </summary>
+            <param name="id">O ID da sub a ser parcialmente atualizada.</param>
+            <param name="subDto">Os dados parcialmente atualizados da sub.</param>
+            <returns>
+            Um objeto contendo os dados parcialmente atualizados da sub após a operação.
+            </returns>
+            <response code="200">Retorna os dados parcialmente atualizados da sub após a operação.</response>
+            <response code="400">Retorna um erro de solicitação inválida.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar a sub para atualização parcial.</response>
+        </member>
+        <member name="M:GeekLifeAPI.Controllers.SubController.DeleteSub(System.Int32)">
+            <summary>
+            Deleta uma subcategoria por ID.
+            </summary>
+            <param name="id">O ID da sub a ser deletada.</param>
+            <returns>
+            Uma mensagem indicando que a sub com o ID fornecido foi deletada.
+            </returns>
+            <response code="200">Retorna uma mensagem indicando que a sub foi deletada com sucesso.</response>
+            <response code="404">Retorna um erro caso não seja possível encontrar a sub para deleção.</response>
+        </member>
+        <member name="T:GeekLifeAPI.Migrations.MigrationZero">
+            <inheritdoc />
+        </member>
+        <member name="M:GeekLifeAPI.Migrations.MigrationZero.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GeekLifeAPI.Migrations.MigrationZero.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GeekLifeAPI.Migrations.MigrationZero.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Refit.Implementation.Generated">
+            <inheritdoc />
+        </member>
+        <member name="T:Refit.Implementation.Generated.GeekLifeAPIIntegracaoRefitIViaCepIntegrationRefit">
+            <inheritdoc />
+        </member>
+        <member name="P:Refit.Implementation.Generated.GeekLifeAPIIntegracaoRefitIViaCepIntegrationRefit.Client">
+            <inheritdoc />
+        </member>
+        <member name="M:Refit.Implementation.Generated.GeekLifeAPIIntegracaoRefitIViaCepIntegrationRefit.#ctor(System.Net.Http.HttpClient,Refit.IRequestBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Refit.Implementation.Generated.GeekLifeAPIIntegracaoRefitIViaCepIntegrationRefit.ObterDadosViaCep(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Refit.Implementation.Generated.GeekLifeAPIIntegracaoRefitIViaCepIntegrationRefit.GeekLifeAPI#Integracao#Refit#IViaCepIntegrationRefit#ObterDadosViaCep(System.String)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

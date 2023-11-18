@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NovaPasta1\**" />
+    <Compile Remove="NovaPasta2\**" />
+    <Compile Remove="NovaPasta3\**" />
+    <Content Remove="NovaPasta1\**" />
+    <Content Remove="NovaPasta2\**" />
+    <Content Remove="NovaPasta3\**" />
+    <EmbeddedResource Remove="NovaPasta1\**" />
+    <EmbeddedResource Remove="NovaPasta2\**" />
+    <EmbeddedResource Remove="NovaPasta3\**" />
+    <None Remove="NovaPasta1\**" />
+    <None Remove="NovaPasta2\**" />
+    <None Remove="NovaPasta3\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Dtos\CategoriaDtos\ResultDto.cs" />
+    <Compile Remove="Dtos\Class.cs" />
+    <Compile Remove="Dtos\UpdateCategoriaDtoStatus.cs" />
+    <Compile Remove="Dtos\UpdateProdutoDtoSupport.cs" />
+    <Compile Remove="Services\GerenciadorDeEstados.cs" />
+    <Compile Remove="Services\ProdutoService\VerificadorDeProdutos.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Correios.CEP.Net" Version="1.1.6" />
+    <PackageReference Include="Dapper" Version="2.0.143" />
+    <PackageReference Include="FluentResults" Version="3.15.2" />
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="7.0.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.18" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="7.0.0" />
+    <PackageReference Include="Refit" Version="6.3.2" />
+    <PackageReference Include="Refit.HttpClientFactory" Version="6.3.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Integrations\Response\" />
+  </ItemGroup>
+
+</Project>
