@@ -1,0 +1,9 @@
+C:\Users\Cleartech\RepoGit\T4-LucasSilva\ProjetoBandas\ProjetoBandas\obj\Debug\net6.0\MusicBandApp.csproj.AssemblyReference.cache
+C:\Users\Cleartech\RepoGit\T4-LucasSilva\ProjetoBandas\ProjetoBandas\obj\Debug\net6.0\MusicBandApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleartech\RepoGit\T4-LucasSilva\ProjetoBandas\ProjetoBandas\obj\Debug\net6.0\MusicBandApp.AssemblyInfoInputs.cache
+C:\Users\Cleartech\RepoGit\T4-LucasSilva\ProjetoBandas\ProjetoBandas\obj\Debug\net6.0\MusicBandApp.AssemblyInfo.cs
+C:\Users\Cleartech\RepoGit\T4-LucasSilva\ProjetoBandas\ProjetoBandas\obj\Debug\net6.0\MusicBandApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Fila\ClearTech\ProjetoBandas\ProjetoBandas\obj\Debug\net6.0\MusicBandApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\Fila\ClearTech\ProjetoBandas\ProjetoBandas\obj\Debug\net6.0\MusicBandApp.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Fila\ClearTech\ProjetoBandas\ProjetoBandas\obj\Debug\net6.0\MusicBandApp.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\Fila\ClearTech\ProjetoBandas\ProjetoBandas\obj\Debug\net6.0\MusicBandApp.csproj.CoreCompileInputs.cache
