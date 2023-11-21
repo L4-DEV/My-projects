@@ -1,20 +1,27 @@
 ﻿
-Genero GeneroRock = new Genero();
-GeneroRock.Nome = "Rock";
+Banda tdg = new Banda("Three Days Grace");
+
+Album albumDoTDG = new Album("One-X");
+
+Musica musica1 = new Musica(tdg, "Animal I Have Become")
+{
+    Duracao = 290,
+    Disponivel = true,
+};
 
 
-Album albumDoTDG = new Album();
-albumDoTDG.Nome = "One-X";
-
-Musica musica1 = new Musica();
-musica1.Nome = "Animal I Have Become";
-musica1.Duracao = 290;
-
-Musica musica2 = new Musica();
-musica2.Nome = "Riot";
-musica2.Duracao = 340;
+Musica musica2 = new Musica(tdg, "Riot")
+{
+    Duracao = 340,
+    Disponivel = false,
+};
 
 albumDoTDG.AddMusica(musica1);
-albumDoTDG.AddMusica(musica2); 
+albumDoTDG.AddMusica(musica2);
+tdg.AddAlbum(albumDoTDG);
 
-albumDoTDG.ShowAlbum(); 
+
+musica1.ShowData();
+musica2.ShowData();
+albumDoTDG.ShowAlbum();
+tdg.ExibirDiscografia();

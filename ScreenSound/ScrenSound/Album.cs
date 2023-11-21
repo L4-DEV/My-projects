@@ -1,5 +1,9 @@
 ﻿class Album
 {
+    public Album(string nome)
+    {
+        Nome = nome;
+    }
 
     private List<Musica> musicas = new List<Musica> ();
     public string Nome { get; set; }
