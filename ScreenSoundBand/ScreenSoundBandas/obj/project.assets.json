@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\MeusProjetos\\ScreenSoundBand\\ScreenSoundBandas\\ScreenSoundBandas.csproj",
-      "projectName": "ScreenSoundBandas",
-      "projectPath": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\MeusProjetos\\ScreenSoundBand\\ScreenSoundBandas\\ScreenSoundBandas.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\MeusProjetos\\ScreenSoundBand\\ScreenSoundBandas\\ScreenSound.csproj",
+      "projectName": "ScreenSound",
+      "projectPath": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\MeusProjetos\\ScreenSoundBand\\ScreenSoundBandas\\ScreenSound.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\MeusProjetos\\ScreenSoundBand\\ScreenSoundBandas\\obj\\",
       "projectStyle": "PackageReference",
