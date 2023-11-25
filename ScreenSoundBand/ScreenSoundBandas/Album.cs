@@ -1,7 +1,7 @@
 ﻿namespace ScreenSound.Modelos;
 
 
-class Album
+internal class Album
 {
     private List<Music> music = new List<Music>();
     public Album(string name)

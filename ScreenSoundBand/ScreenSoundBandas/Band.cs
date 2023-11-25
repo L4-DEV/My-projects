@@ -1,13 +1,12 @@
-﻿using ScreenSound.Modelos;
+﻿using ScreenSound;
+using ScreenSound.Modelos;
 
-class Band
+internal class Band
 {
+    //private List<Album> albuns => albuns;
+    private List<Album> albuns = new List<Album>();
+    private List<Rate> notes = new List <Rate>();
 
-    //private List<Album> albuns = new List<Album>();
-
-    private List<Album> albuns => albuns;
-
-    private List<int> notes = new List <int>();
     public Band(string name)
     {
         Name = name;
@@ -15,7 +14,14 @@ class Band
 
     public string Name { get; }
 
-    public double NoteAverage => notes.Average();
+    public double NoteAverage
+    {
+        get
+        {
+            if (notes.Count == 0) return 0;
+            else return  notes.Average(r => r.Note);
+        }
+    }
 
 
 
@@ -24,7 +30,7 @@ class Band
         albuns.Add(album);
     }
 
-    public void AddNote (int note)
+    public void AddNote (Rate note)
     {
         notes.Add(note);
     }

@@ -1,8 +1,7 @@
-﻿using ScreenSound.Modelos;
-using System.Diagnostics;
+﻿using ScreenSound;
+using ScreenSound.Modelos;
 
-
-class Program
+internal class Program
 {
     static void Main(string[] args)
     {
@@ -10,9 +9,9 @@ class Program
         var message = "Welcome!!!";
 
         Band audioSlave = new Band("AudioSlave");
-        audioSlave.AddNote(10);
-        audioSlave.AddNote(8);
-        audioSlave.AddNote(6);
+        audioSlave.AddNote(new Rate(10));
+        audioSlave.AddNote(new Rate (8));
+        audioSlave.AddNote(new Rate (6));
 
         Band nickelback = new Band("Nickelback");
 
@@ -150,9 +149,9 @@ class Program
             {
                 Band band = RegistredBands[bandName];
                 Console.Write($"Qual a nota que a {bandName} merece: ");
-                int note = int.Parse(Console.ReadLine()!);
+                Rate note = Rate.Parse(Console.ReadLine()!);              
                 band.AddNote(note);
-                Console.WriteLine($"\nA nota {note}, foi registrada com sucesso para a banda {bandName}");
+                Console.WriteLine($"\nA nota {note.Note}, foi registrada com sucesso para a banda {bandName}");
                 Thread.Sleep(4000); //Contará 4 segundos antes de retornar a tela.
                 Console.Clear();
                 ShowMenu();
