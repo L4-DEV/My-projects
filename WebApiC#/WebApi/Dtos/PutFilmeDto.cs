@@ -2,7 +2,7 @@
 
 namespace WebApi.Dtos;
 
-public class CreateFilmeDto
+public class PutFilmeDto
 {
     [Required(ErrorMessage = "O campo nome é obrigatório")]
     [RegularExpression(@"^[A-Za-zÀ-ÿ0-9\s]{1,128}$", ErrorMessage = "O nome da categoria deve conter apenas caracteres alfanuméricos.")]

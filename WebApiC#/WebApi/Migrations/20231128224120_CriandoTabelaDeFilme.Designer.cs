@@ -10,7 +10,7 @@ using WebApi.Data.Context;
 namespace WebApi.Migrations
 {
     [DbContext(typeof(FilmeContext))]
-    [Migration("20231128003135_CriandoTabelaDeFilme")]
+    [Migration("20231128224120_CriandoTabelaDeFilme")]
     partial class CriandoTabelaDeFilme
     {
         /// <inheritdoc />
@@ -40,7 +40,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Filme");
+                    b.ToTable("Filmes");
                 });
 #pragma warning restore 612, 618
         }
