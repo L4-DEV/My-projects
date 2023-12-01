@@ -146,3 +146,5 @@ C:\Users\Lucas\OneDrive\Área de Trabalho\MeusProjetos\WebApiC#\WebApi\bin\Debug
 C:\Users\Lucas\OneDrive\Área de Trabalho\MeusProjetos\WebApiC#\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Lucas\OneDrive\Área de Trabalho\MeusProjetos\WebApiC#\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Lucas\OneDrive\Área de Trabalho\MeusProjetos\WebApiC#\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\MeusProjetos\WebApiC#\WebApi\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\MeusProjetos\WebApiC#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll

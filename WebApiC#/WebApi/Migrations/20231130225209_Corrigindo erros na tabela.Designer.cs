@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebApi.Data.Context;
 
@@ -10,9 +11,11 @@ using WebApi.Data.Context;
 namespace WebApi.Migrations
 {
     [DbContext(typeof(FilmeContext))]
-    partial class FilmeContextModelSnapshot : ModelSnapshot
+    [Migration("20231130225209_Corrigindo erros na tabela")]
+    partial class Corrigindoerrosnatabela
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -31,7 +34,7 @@ namespace WebApi.Migrations
                     b.Property<int>("EnderecoId")
                         .HasColumnType("int");
 
-                    b.Property<string>("Nome")
+                    b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("longtext");
 
@@ -85,15 +88,21 @@ namespace WebApi.Migrations
 
             modelBuilder.Entity("WebApi.Models.Sessao", b =>
                 {
-                    b.Property<int?>("FilmeId")
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
                     b.Property<int?>("CinemaId")
                         .HasColumnType("int");
 
-                    b.HasKey("FilmeId", "CinemaId");
+                    b.Property<int>("FilmeId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
 
                     b.HasIndex("CinemaId");
+
+                    b.HasIndex("FilmeId");
 
                     b.ToTable("Sessoes");
                 });
@@ -101,9 +110,9 @@ namespace WebApi.Migrations
             modelBuilder.Entity("WebApi.Models.Cinema", b =>
                 {
                     b.HasOne("WebApi.Models.Endereco", "Endereco")
-                        .WithOne("Cinema")
+                        .WithOne("cinema")
                         .HasForeignKey("WebApi.Models.Cinema", "EnderecoId")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Endereco");
@@ -113,9 +122,7 @@ namespace WebApi.Migrations
                 {
                     b.HasOne("WebApi.Models.Cinema", "Cinema")
                         .WithMany("Sessoes")
-                        .HasForeignKey("CinemaId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CinemaId");
 
                     b.HasOne("WebApi.Models.Filme", "Filme")
                         .WithMany("Sessoes")
@@ -135,7 +142,7 @@ namespace WebApi.Migrations
 
             modelBuilder.Entity("WebApi.Models.Endereco", b =>
                 {
-                    b.Navigation("Cinema")
+                    b.Navigation("cinema")
                         .IsRequired();
                 });
 

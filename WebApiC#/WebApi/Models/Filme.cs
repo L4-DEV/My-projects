@@ -14,4 +14,10 @@ public class Filme
     public string Genero { get; set; }
 
     public int Duracao { get; set; }
+
+    //public DateTime HoraDaConsulta { get; private set; } = DateTime.Now;
+
+    public virtual ICollection<Sessao> Sessoes { get; set; }
+
+
 }

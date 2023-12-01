@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using WebApi.Models;
 
 namespace WebApi.Dtos
 {
@@ -10,6 +11,10 @@ namespace WebApi.Dtos
         public string Genero { get; set; }
         public int Duracao { get; set; }
 
-        public DateTime HoraDaConsulta { get;} =DateTime.Now;
+        public DateTime HoraDaConsulta { get;  } =DateTime.Now;
+
+        public virtual ICollection<ReadSessaoDto> Sessoes { get; set; }
+
+        
     }
 }

@@ -7,7 +7,7 @@ using WebApi.Models;
 
 namespace WebApi.Controllers;
 
-[Route("api/[controller]")]
+[Route("[controller]")]
 [ApiController]
 public class CinemaController : ControllerBase
 {
@@ -32,7 +32,7 @@ public class CinemaController : ControllerBase
     [HttpGet]
     public IEnumerable<ReadCinemaDto> ReadCinema([FromQuery] int skip = 0, [FromQuery] int take = 50)
     {
-        return _mapper.Map<List<ReadCinemaDto>>(_context.Cinemas.Skip(skip).Take(take));
+        return _mapper.Map<List<ReadCinemaDto>>(_context.Cinemas.Skip(skip).Take(take).ToList());
     }
 
     [HttpGet("{id}")]

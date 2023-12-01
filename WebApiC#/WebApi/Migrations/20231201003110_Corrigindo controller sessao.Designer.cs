@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebApi.Data.Context;
 
@@ -10,9 +11,11 @@ using WebApi.Data.Context;
 namespace WebApi.Migrations
 {
     [DbContext(typeof(FilmeContext))]
-    partial class FilmeContextModelSnapshot : ModelSnapshot
+    [Migration("20231201003110_Corrigindo controller sessao")]
+    partial class Corrigindocontrollersessao
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

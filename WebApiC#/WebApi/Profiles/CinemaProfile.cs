@@ -12,7 +12,12 @@ namespace WebApi.Profiles
             CreateMap<PutCinemaDto, Cinema>();
             CreateMap<Cinema, PatchCinemaDto>();
             CreateMap<PatchCinemaDto, Cinema>();
-            CreateMap<Cinema, ReadCinemaDto>();
+            CreateMap<Cinema, ReadCinemaDto>()
+               .ForMember(cinemaDto => cinemaDto.Endereco,
+                   opt => opt.MapFrom(cinema => cinema.Endereco))
+               .ForMember(cinemaDto => cinemaDto.Sessoes,
+                   opt => opt.MapFrom(cinema => cinema.Sessoes));
+
         }
     }
 }
