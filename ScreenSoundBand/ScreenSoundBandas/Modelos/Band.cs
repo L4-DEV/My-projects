@@ -1,5 +1,4 @@
-﻿using ScreenSound;
-using ScreenSound.Modelos;
+﻿using ScreenSound.Modelos;
 
 internal class Band
 {
@@ -23,8 +22,6 @@ internal class Band
         }
     }
 
-
-
     public void AddAlbum(Album album)
     {
         albuns.Add(album);
@@ -43,5 +40,4 @@ internal class Band
             Console.WriteLine($"Álbum: {album.Name} ({album.TotalDuration})");
         }
     }
-
 }

@@ -1,8 +1,8 @@
-﻿namespace ScreenSound;
+﻿namespace ScreenSound.Modelos;
 
 internal class Rate
 {
-    public Rate (int note) 
+    public Rate(int note)
     {
         Note = note;
     }
