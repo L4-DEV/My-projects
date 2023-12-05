@@ -17,7 +17,7 @@ internal class MenuBandRate:Menu
             Rate note = Rate.Parse(Console.ReadLine()!);
             band.AddNote(note);
             Console.WriteLine($"\nA nota {note.Note}, foi registrada com sucesso para a banda {bandName}");
-            Thread.Sleep(4000); //Contará 4 segundos antes de retornar a tela.
+            Thread.Sleep(2000);
             Console.Clear();           
         }
         else

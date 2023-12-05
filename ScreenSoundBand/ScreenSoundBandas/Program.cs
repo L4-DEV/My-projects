@@ -1,16 +1,5 @@
 ﻿using ScreenSound.Menus;
 using ScreenSound.Modelos;
-using OpenAI_API;
-
-//var client = new OpenAIAPI("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");
-
-//var chat = client.Chat.CreateConversation();
-
-//chat.AppendSystemMessage("Resuma a banda  , em um parágrafo. Adote um estilo descolado.");
-
-//string response = await chat.GetResponseFromChatbotAsync();
-
-//Console.WriteLine(response);
 
 var message = "Welcome!!!";
 
@@ -40,7 +29,7 @@ void ShowLogo()
 Dictionary<int, Menu> options = new Dictionary<int, Menu>();
 options.Add(1, new MenuBandRegister());
 options.Add(2, new MenuAlbumRegister());
-options.Add(3, new MenuShowListBand());
+options.Add(3, new MenuShowBand());
 options.Add(4, new MenuBandRate());
 options.Add(5, new MenuShowDetails());
 options.Add(-1, new MenuExit());
@@ -70,7 +59,7 @@ void ShowMenu()
     }
 }
 
-//ShowMenu();
+ShowMenu();
 
 
 

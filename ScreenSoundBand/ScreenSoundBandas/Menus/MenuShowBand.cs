@@ -1,6 +1,6 @@
 ﻿namespace ScreenSound.Menus;
 
-internal class MenuShowListBand:Menu
+internal class MenuShowBand:Menu
 {
     public override void Execute(Dictionary<string, Band> registredBands)
     {

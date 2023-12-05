@@ -1,14 +1,15 @@
 ﻿using ScreenSound.Modelos;
 
-internal class Band
+internal class Band:IAssessable
 {
-    //private List<Album> albuns => albuns;
+    
     private List<Album> albuns = new List<Album>();
     private List<Rate> notes = new List <Rate>();
 
     public Band(string name)
     {
         Name = name;
+        
     }
 
     public string Name { get; }
@@ -22,6 +23,9 @@ internal class Band
         }
     }
 
+    public string? Summary { get; set; }
+
+    public List<Album> Albuns => albuns;
     public void AddAlbum(Album album)
     {
         albuns.Add(album);

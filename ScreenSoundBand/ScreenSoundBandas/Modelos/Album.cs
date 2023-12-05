@@ -4,6 +4,7 @@
 internal class Album
 {
     private List<Music> music = new List<Music>();
+    private List<Rate> notes = new List<Rate>();
     public Album(string name)
     {
         Name = name;
@@ -11,11 +12,26 @@ internal class Album
  
     public string Name { get; set; }
 
+    public double NoteAverage
+    {
+        get
+        {
+            if (notes.Count == 0) return 0;
+            else return notes.Average(r => r.Note);
+        }
+    }
+
+    public List<Music> Music => music;
     public int TotalDuration => music.Sum(m => m.Duration);
 
-    public void AddMusica(Music music1)
+    public void AddMusica(Music song)
     {
-        music.Add(music1);
+        music.Add(song);
+    }
+
+    public void AddNote(Rate note)
+    {
+        notes.Add(note);
     }
 
 

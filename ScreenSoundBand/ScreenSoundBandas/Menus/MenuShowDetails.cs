@@ -1,4 +1,6 @@
-﻿namespace ScreenSound.Menus;
+﻿using ScreenSound.Modelos;
+
+namespace ScreenSound.Menus;
 
 internal class MenuShowDetails:Menu
 { 
@@ -11,14 +13,23 @@ internal class MenuShowDetails:Menu
         if (registredBands.ContainsKey(bandName))
         {
             Band band = registredBands[bandName];
+            Console.WriteLine(band.Summary);
             Console.Write($"\nA nota média da banda {bandName} é : {band.NoteAverage}!");
-            Thread.Sleep(5000);
+            Console.WriteLine("\nDiscografia:");
+            foreach (Album album in band.Albuns) 
+            {
+                Console.WriteLine($"{album.Name} -> {album.NoteAverage}");
+            }
+            Console.WriteLine("Digite uma tecla para voltar ao menu principal...");
+            Console.ReadKey();
             Console.Clear();   
         }
         else
         {
             Console.WriteLine($"\n A banda {bandName} não foi encontrada");
-            Console.WriteLine("Digite uma tecla para voltar ao menu principal...");           
+            Console.WriteLine("Digite uma tecla para voltar ao menu principal...");
+            Console.ReadKey();
+            Console.Clear();
         }
     }
 }
