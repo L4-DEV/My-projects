@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net6.0\ScreenSoundAPI.exe
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net6.0\ScreenSoundAPI.deps.json
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net6.0\ScreenSoundAPI.runtimeconfig.json
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net6.0\ScreenSoundAPI.dll
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\bin\Debug\net6.0\ScreenSoundAPI.pdb
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net6.0\ScreenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net6.0\ScreenSoundAPI.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net6.0\ScreenSoundAPI.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net6.0\ScreenSoundAPI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net6.0\ScreenSoundAPI.dll
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net6.0\refint\ScreenSoundAPI.dll
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net6.0\ScreenSoundAPI.pdb
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net6.0\ScreenSoundAPI.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ScreenSoundAPI\ScreenSoundAPI\obj\Debug\net6.0\ref\ScreenSoundAPI.dll
