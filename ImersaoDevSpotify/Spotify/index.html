@@ -12,17 +12,18 @@
         integrity="sha384-Tv5i09RULyHKMwX0E8wJUqSOaXlyu3SQxORObAI08iUwIalMmN5L6AvlPX2LMoSE" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/fontawesome.css"
         integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous" />
+    
 
 </head>
 
 <body>
     <div class="sidebar">
-      <nav class="sidebar_navigation">
+      <nav class="sidebar__navigation">
        <div class="logo">
          <a href="">
              <img src="./assets/icons/logo-spotify.png" alt="Logo Spotify">
          </a>
-          <div>
+        </div>
             <ul>
               <li>
                  <a href=""> 
@@ -37,12 +38,34 @@
                 </a>
               </li>
            </ul>
+      </nav>
+      <div class="library">
+        <div class = "library__content">
+          <button class="library__button">
+            <span class ="fa fas fa-book"></span>
+            <span>Sua biblioteca</span>
+          </button>
+          <span class ="fa fa-plus"></span>
+        </div>
+        <section class ="section-playlist">
+          <div class= "section-playlist__content">
+            <span class ="text title">Crie sua primeira playlist</span>
+            <span  class ="text subtitle">É fácil, vamos te ajudar!</span>
+            <button class = "section-playlist__button">
+              <span>Criar playlist</span>
+            </button>
           </div>
-       </div>
-      </nav>
-      <nav class="sidebar_lib">
-
-      </nav>
+        </section>
+        <div class="cookies">
+         <a href="">Cookies</a>
+        </div>
+        <div class ="languages"> 
+          <button class="languages__button">
+            <span class ="fa fa-globe"></span>
+            <span>Português do Brasil</span>
+          </button>
+        </div>
+      </div>
     </div>
 </body>
 
