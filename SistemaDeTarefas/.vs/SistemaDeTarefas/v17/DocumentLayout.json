@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\integracao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\integracao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CepController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\CepController.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\CepController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\CepController.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\CepController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:13:07.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Program.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:09:36.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA9wD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:07:20.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\TarefaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:07:17.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViaCepIntegracao.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:58:59.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IViaCepIntegracao.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:57:38.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,12 @@
 using Microsoft.EntityFrameworkCore;
+using Refit;
 using SistemaDeTarefas.Data;
+using SistemaDeTarefas.Integracao;
+using SistemaDeTarefas.Integracao.Interfaces;
+using SistemaDeTarefas.Integracao.Refit;
 using SistemaDeTarefas.Repository;
 using SistemaDeTarefas.Repository.Interface;
+using System;
 
 namespace SistemaDeTarefas
 {
@@ -12,6 +17,13 @@ namespace SistemaDeTarefas
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            string mySqlConnection =
+               builder.Configuration.GetConnectionString("DataBase");
+
+            builder.Services.AddDbContextPool<SistemaTarefasDBContext>(options =>
+                            options.UseMySql(mySqlConnection,
+                                  ServerVersion.AutoDetect(mySqlConnection)));
+
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -24,6 +36,12 @@ namespace SistemaDeTarefas
                 );
 
             builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+            builder.Services.AddScoped<ITarefaRepository,TarefaRepository>();
+            builder.Services.AddScoped<IViaCepIntegracao, ViaCepIntegracao>(); 
+            builder.Services.AddRefitClient<IViaCepIntegracaoRefit>().ConfigureHttpClient(c =>
+            {
+                c.BaseAddress = new Uri("https://viacep.com.br");
+            });
 
             var app = builder.Build();
 

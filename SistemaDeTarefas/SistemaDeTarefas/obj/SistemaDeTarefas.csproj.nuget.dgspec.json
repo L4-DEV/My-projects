@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\MeusProjetos\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj": {}
+    "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\MeusProjetos\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj": {
+    "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\MeusProjetos\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
         "projectName": "SistemaDeTarefas",
-        "projectPath": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\MeusProjetos\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+        "projectPath": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\MeusProjetos\\SistemaDeTarefas\\SistemaDeTarefas\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,6 +70,18 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -89,7 +106,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
