@@ -24,17 +24,17 @@ namespace SistemaDeTarefas
                             options.UseMySql(mySqlConnection,
                                   ServerVersion.AutoDetect(mySqlConnection)));
 
+          //  builder.Services.AddEntityFrameworkSqlServer()
+          //.AddDbContext<SistemaTarefasDBContext>(
+          //   options => options.UseSqlServer(builder.Configuration.GetConnectionString("DataBase"))
+          //    );
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            builder.Services.AddEntityFrameworkSqlServer()
-            .AddDbContext<SistemaTarefasDBContext>(
-               options => options.UseSqlServer(builder.Configuration.GetConnectionString("DataBase")) 
-                );
-
+          
             builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
             builder.Services.AddScoped<ITarefaRepository,TarefaRepository>();
             builder.Services.AddScoped<IViaCepIntegracao, ViaCepIntegracao>(); 

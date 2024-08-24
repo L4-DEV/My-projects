@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\data\\sistemadetarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\data\\sistemadetarefasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\migrations\\20240812230326_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\migrations\\20240812230326_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\enuns\\statustarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\enuns\\statustarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A7B74AC-2680-4118-97CA-11FDA6AD78C7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\users\\lucas\\source\\repos\\sistemadetarefas\\sistemadetarefas\\integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,20 +58,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CepController.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\CepController.cs",
-              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\CepController.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\CepController.cs",
-              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\CepController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "SistemaDeTarefasDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Data\\SistemaDeTarefasDBContext.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Data\\SistemaDeTarefasDBContext.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Data\\SistemaDeTarefasDBContext.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Data\\SistemaDeTarefasDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T21:13:07.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T23:20:01.358Z"
             },
             {
               "$type": "Document",
@@ -57,27 +80,99 @@
               "RelativeDocumentMoniker": "SistemaDeTarefas\\Program.cs",
               "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Program.cs",
               "RelativeToolTip": "SistemaDeTarefas\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAADMAAAAjAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAC8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T21:09:36.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\appsettings.json",
+              "RelativeToolTip": "SistemaDeTarefas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T23:05:17.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Data\\Map\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Data\\Map\\UsuarioMap.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Data\\Map\\UsuarioMap.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Data\\Map\\UsuarioMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:21:31.91Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ViaCepResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Response\\ViaCepResponse.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Integracao\\Response\\ViaCepResponse.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Response\\ViaCepResponse.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Integracao\\Response\\ViaCepResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:19:31.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240812230326_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Migrations\\20240812230326_Initial Migration.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Migrations\\20240812230326_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Migrations\\20240812230326_Initial Migration.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Migrations\\20240812230326_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:19:28.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatusTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Enuns\\StatusTarefa.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Enuns\\StatusTarefa.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Enuns\\StatusTarefa.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Enuns\\StatusTarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:19:25.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CepController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\CepController.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\CepController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\CepController.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\CepController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:13:07.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "SistemaDeTarefas\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAA9wD4AAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T21:07:20.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T21:07:20.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "TarefaController.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\TarefaController.cs",
               "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\TarefaController.cs",
@@ -85,25 +180,23 @@
               "RelativeToolTip": "SistemaDeTarefas\\Controllers\\TarefaController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T21:07:17.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T21:07:17.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ViaCepIntegracao.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
               "RelativeDocumentMoniker": "SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
               "ToolTip": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
               "RelativeToolTip": "SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T20:58:59.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T20:58:59.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IViaCepIntegracao.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
               "RelativeDocumentMoniker": "SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
@@ -111,8 +204,7 @@
               "RelativeToolTip": "SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T20:57:38.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T20:57:38.382Z"
             }
           ]
         }
