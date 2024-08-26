@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\migrations\\20240822235548_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\migrations\\20240822235548_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\context\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\context\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\consultorio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\consultorio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\consultorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\consultorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Agendamento.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Agendamento.cs",
+              "RelativeToolTip": "Consultorio\\Models\\Entities\\Agendamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:51:33.72Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240822235548_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240822235548_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240822235548_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240822235548_InitialMigration.cs",
+              "RelativeToolTip": "Consultorio\\Migrations\\20240822235548_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:55:48.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Program.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Program.cs",
+              "RelativeToolTip": "Consultorio\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:20:08.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\appsettings.json",
+              "RelativeDocumentMoniker": "Consultorio\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\appsettings.json",
+              "RelativeToolTip": "Consultorio\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T22:20:12.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultorioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Context\\ConsultorioContext.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Context\\ConsultorioContext.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Context\\ConsultorioContext.cs",
+              "RelativeToolTip": "Consultorio\\Context\\ConsultorioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:27:31.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Consultorio\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\appsettings.Development.json",
+              "RelativeToolTip": "Consultorio\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T23:07:25.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Consultorio\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Consultorio\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T22:21:02.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Consultorio.csproj",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Consultorio.csproj",
+              "RelativeDocumentMoniker": "Consultorio\\Consultorio.csproj",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Consultorio.csproj",
+              "RelativeToolTip": "Consultorio\\Consultorio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T22:23:13.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consultorio.http",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Consultorio.http",
+              "RelativeDocumentMoniker": "Consultorio\\Consultorio.http",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Consultorio.http",
+              "RelativeToolTip": "Consultorio\\Consultorio.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-22T22:35:31.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgendamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Controllers\\AgendamentoController.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Controllers\\AgendamentoController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Controllers\\AgendamentoController.cs",
+              "RelativeToolTip": "Consultorio\\Controllers\\AgendamentoController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:37:46.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Services\\EmailService.cs",
+              "RelativeToolTip": "Consultorio\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:54:12.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Services\\IEmailService.cs",
+              "RelativeToolTip": "Consultorio\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:04:58.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
