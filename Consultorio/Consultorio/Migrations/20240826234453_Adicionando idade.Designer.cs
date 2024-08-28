@@ -4,6 +4,7 @@ using Consultorio.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Consultorio.Migrations
 {
     [DbContext(typeof(ConsultorioContext))]
-    partial class ConsultorioContextModelSnapshot : ModelSnapshot
+    [Migration("20240826234453_Adicionando idade")]
+    partial class Adicionandoidade
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -26,26 +29,23 @@ namespace Consultorio.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasColumnName("id");
+                        .HasColumnType("int");
 
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("Horario")
-                        .HasColumnType("datetime(6)")
-                        .HasColumnName("horario");
+                        .HasColumnType("datetime(6)");
 
                     b.Property<int>("Idade")
                         .HasColumnType("int");
 
                     b.Property<string>("NomePaciente")
                         .IsRequired()
-                        .HasColumnType("varchar(100)")
-                        .HasColumnName("nome_paciente");
+                        .HasColumnType("longtext");
 
                     b.HasKey("Id");
 
-                    b.ToTable("tb_agendamento", (string)null);
+                    b.ToTable("Agendamentos");
                 });
 #pragma warning restore 612, 618
         }

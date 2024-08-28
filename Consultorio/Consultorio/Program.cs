@@ -19,6 +19,9 @@ namespace Consultorio
             string mySqlConnection =
                builder.Configuration.GetConnectionString("Default");
 
+
+            //assembly => assembly.MigrationsAssembly(typeof(ConsultorioContext).Assembly.FullName));
+
             builder.Services.AddDbContextPool<ConsultorioContext>(options =>
                             options.UseMySql(mySqlConnection,
                                   ServerVersion.AutoDetect(mySqlConnection)));

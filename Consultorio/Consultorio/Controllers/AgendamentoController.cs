@@ -10,51 +10,51 @@ namespace Consultorio.Controllers
     {
         private readonly IEmailService _emailService;
 
-        List<Agendamento> agendamentos = new List<Agendamento>();
+        //List<Agendamento> agendamentos = new List<Agendamento>();
 
 
         //var agendamentos = new List<Agendamento>();
      
         public AgendamentoController(IEmailService emailService)
         {
-            agendamentos.Add(new Agendamento
-            {
-                Id = 1,
-                NomePaciente = "Arian",
-                Horario = new DateTime(2021, 03, 16)
-            });
-           _emailService = emailService;
+           // agendamentos.Add(new Agendamento
+           // {
+           //     Id = 1,
+           //     NomePaciente = "Arian",
+           //     Horario = new DateTime(2021, 03, 16)
+           // });
+           //_emailService = emailService;
         }
 
-        [HttpGet]
-        public IActionResult Get()
-        {
-            return Ok(agendamentos);
-        }
+        //[HttpGet]
+        //public IActionResult Get()
+        //{
+        //    return Ok(agendamentos);
+        //}
 
-        [HttpGet("search/{id}")]
-        public IActionResult GetById(int id)
-        {
-            var agendamentoSelecionado = agendamentos.FirstOrDefault(x => x.Id == id);
+        //[HttpGet("search/{id}")]
+        //public IActionResult GetById(int id)
+        //{
+        //    var agendamentoSelecionado = agendamentos.FirstOrDefault(x => x.Id == id);
 
-            return agendamentoSelecionado != null
-              ? Ok (agendamentoSelecionado)
-              : BadRequest(" Erro ao buscar o agendamento");
-        }
+        //    return agendamentoSelecionado != null
+        //      ? Ok (agendamentoSelecionado)
+        //      : BadRequest(" Erro ao buscar o agendamento");
+        //}
 
-        [HttpPost]
-        public IActionResult Post()
-        {
-            var pacienteAgendado = true;
+        //[HttpPost]
+        //public IActionResult Post()
+        //{
+        //    var pacienteAgendado = true;
 
 
-            if (pacienteAgendado)
-            {
-                _emailService.EnviarEmail("Lucaswendelns@gmail.com");
-            }
+        //    if (pacienteAgendado)
+        //    {
+        //        _emailService.EnviarEmail("Lucaswendelns@gmail.com");
+        //    }
 
-            return Ok();
-        }
+        //    return Ok();
+        //}
 
 
     }
