@@ -7,9 +7,7 @@ namespace Consultorio.Map
     public class ConsultaMap : BaseMap<Consulta>
     {
         public ConsultaMap() : base("tb_consulta")
-        {
-                
-        }
+        {}
 
         public override void Configure(EntityTypeBuilder<Consulta> builder)
         {

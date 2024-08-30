@@ -1,6 +1,6 @@
 ﻿namespace Consultorio.Models.Entities
 {
-    public class Consulta
+    public class Consulta:Base
     {
         public DateTime DataHorario { get; set; }
         public int Status { get; set; }
