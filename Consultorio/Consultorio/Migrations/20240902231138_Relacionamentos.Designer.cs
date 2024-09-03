@@ -4,6 +4,7 @@ using Consultorio.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Consultorio.Migrations
 {
     [DbContext(typeof(ConsultorioContext))]
-    partial class ConsultorioContextModelSnapshot : ModelSnapshot
+    [Migration("20240902231138_Relacionamentos")]
+    partial class Relacionamentos
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -86,7 +89,7 @@ namespace Consultorio.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Especialidade", (string)null);
+                    b.ToTable("Especialidade");
                 });
 
             modelBuilder.Entity("Consultorio.Models.Entities.Paciente", b =>
@@ -115,7 +118,7 @@ namespace Consultorio.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Paciente", (string)null);
+                    b.ToTable("Paciente");
                 });
 
             modelBuilder.Entity("Consultorio.Models.Entities.Profissional", b =>
@@ -135,7 +138,7 @@ namespace Consultorio.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Profissional", (string)null);
+                    b.ToTable("Profissional");
                 });
 
             modelBuilder.Entity("EspecialidadeProfissional", b =>
@@ -150,7 +153,7 @@ namespace Consultorio.Migrations
 
                     b.HasIndex("ProfissionaisId");
 
-                    b.ToTable("EspecialidadeProfissional", (string)null);
+                    b.ToTable("EspecialidadeProfissional");
                 });
 
             modelBuilder.Entity("Consultorio.Models.Entities.Consulta", b =>
