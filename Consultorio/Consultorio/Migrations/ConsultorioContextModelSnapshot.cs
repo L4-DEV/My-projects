@@ -53,9 +53,7 @@ namespace Consultorio.Migrations
                         .HasColumnName("id_profissional");
 
                     b.Property<int>("Status")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("int")
-                        .HasDefaultValue(1)
                         .HasColumnName("status");
 
                     b.HasKey("Id");
@@ -73,84 +71,97 @@ namespace Consultorio.Migrations
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("id");
 
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<bool>("Ativa")
-                        .HasColumnType("tinyint(1)");
+                        .HasColumnType("tinyint(1)")
+                        .HasColumnName("ativa");
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasColumnType("longtext")
+                        .HasColumnName("nome");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Especialidade", (string)null);
+                    b.ToTable("tb_especialidade", (string)null);
                 });
 
             modelBuilder.Entity("Consultorio.Models.Entities.Paciente", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("id");
 
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("CPF")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
                     b.Property<string>("Celular")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasColumnType("varchar(100)")
+                        .HasColumnName("celular");
+
+                    b.Property<string>("Cpf")
+                        .IsRequired()
+                        .HasColumnType("varchar(11)")
+                        .HasColumnName("cpf");
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasColumnType("varchar(50)")
+                        .HasColumnName("email");
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasColumnType("varchar(100)")
+                        .HasColumnName("nome");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Paciente", (string)null);
+                    b.ToTable("tb_paciente", (string)null);
                 });
 
             modelBuilder.Entity("Consultorio.Models.Entities.Profissional", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("id");
 
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<bool>("Ativo")
-                        .HasColumnType("tinyint(1)");
+                        .HasColumnType("tinyint(1)")
+                        .HasColumnName("ativo");
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasColumnType("varchar(100)")
+                        .HasColumnName("nome");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Profissional", (string)null);
+                    b.ToTable("tb_profissional", (string)null);
                 });
 
-            modelBuilder.Entity("EspecialidadeProfissional", b =>
+            modelBuilder.Entity("Consultorio.Models.Entities.ProfissionalEspecialidade", b =>
                 {
-                    b.Property<int>("EspecialidadesId")
-                        .HasColumnType("int");
+                    b.Property<int>("EspecialidadeId")
+                        .HasColumnType("int")
+                        .HasColumnName("id_especialidade");
 
-                    b.Property<int>("ProfissionaisId")
-                        .HasColumnType("int");
+                    b.Property<int>("ProfissionalId")
+                        .HasColumnType("int")
+                        .HasColumnName("id_profissional");
 
-                    b.HasKey("EspecialidadesId", "ProfissionaisId");
+                    b.HasKey("EspecialidadeId", "ProfissionalId");
 
-                    b.HasIndex("ProfissionaisId");
+                    b.HasIndex("ProfissionalId");
 
-                    b.ToTable("EspecialidadeProfissional", (string)null);
+                    b.ToTable("tb_profissional_especialidade", (string)null);
                 });
 
             modelBuilder.Entity("Consultorio.Models.Entities.Consulta", b =>
@@ -180,19 +191,23 @@ namespace Consultorio.Migrations
                     b.Navigation("Profissional");
                 });
 
-            modelBuilder.Entity("EspecialidadeProfissional", b =>
+            modelBuilder.Entity("Consultorio.Models.Entities.ProfissionalEspecialidade", b =>
                 {
-                    b.HasOne("Consultorio.Models.Entities.Especialidade", null)
+                    b.HasOne("Consultorio.Models.Entities.Especialidade", "Especialidade")
                         .WithMany()
-                        .HasForeignKey("EspecialidadesId")
+                        .HasForeignKey("EspecialidadeId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Consultorio.Models.Entities.Profissional", null)
+                    b.HasOne("Consultorio.Models.Entities.Profissional", "Profissionais")
                         .WithMany()
-                        .HasForeignKey("ProfissionaisId")
+                        .HasForeignKey("ProfissionalId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Especialidade");
+
+                    b.Navigation("Profissionais");
                 });
 
             modelBuilder.Entity("Consultorio.Models.Entities.Especialidade", b =>

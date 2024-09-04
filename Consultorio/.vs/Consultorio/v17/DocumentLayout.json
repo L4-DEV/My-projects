@@ -3,56 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\profissionalespecialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\profissionalespecialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\map\\profissionalmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\map\\profissionalmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\profissionalespecialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\profissionalespecialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\consultorio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\consultorio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\migrations\\consultoriocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\migrations\\consultoriocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903001258_Rela\u00E7\u00E3o Many to Many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Consultorio\\Migrations\\20240903001258_Rela\u00E7\u00E3o Many to Many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\migrations\\20240902231138_relacionamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\migrations\\20240902231138_relacionamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903001008_Rela\u00E7\u00E3o Many to Many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Consultorio\\Migrations\\20240903001008_Rela\u00E7\u00E3o Many to Many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\map\\profissionalmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\map\\profissionalmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\map\\pacientemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,56 +47,24 @@
       "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\map\\especialidademap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\map\\basemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\map\\basemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\map\\consultamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\map\\consultamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\map\\basemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\map\\basemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240902230206_One To Many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Consultorio\\Migrations\\20240902230206_One To Many.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903232130_Many to MAny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Consultorio\\Migrations\\20240903232130_Many to MAny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\context\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\context\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\controllers\\agendamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\consultorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\consultorio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\migrations\\20240827001408_atualizando nomes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\migrations\\20240827001408_atualizando nomes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\migrations\\20240830001812_atualizando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\migrations\\20240830001812_atualizando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903231039_Novas tabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Consultorio\\Migrations\\20240903231039_Novas tabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,124 +74,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Agendamento.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Agendamento.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Agendamento.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Agendamento.cs",
-              "RelativeToolTip": "Consultorio\\Models\\Entities\\Agendamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T22:51:33.72Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConsultorioContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\ConsultorioContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Migrations\\ConsultorioContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\ConsultorioContextModelSnapshot.cs",
-              "RelativeToolTip": "Consultorio\\Migrations\\ConsultorioContextModelSnapshot.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T00:14:11.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20240903001258_Rela\u00E7\u00E3o Many to Many.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903001258_Rela\u00E7\u00E3o Many to Many.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240903001258_Rela\u00E7\u00E3o Many to Many.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903001258_Rela\u00E7\u00E3o Many to Many.cs",
-              "RelativeToolTip": "Consultorio\\Migrations\\20240903001258_Rela\u00E7\u00E3o Many to Many.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T00:12:58.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240903001008_Rela\u00E7\u00E3o Many to Many.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903001008_Rela\u00E7\u00E3o Many to Many.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240903001008_Rela\u00E7\u00E3o Many to Many.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903001008_Rela\u00E7\u00E3o Many to Many.cs",
-              "RelativeToolTip": "Consultorio\\Migrations\\20240903001008_Rela\u00E7\u00E3o Many to Many.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T00:10:08.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProfissionalEspecialidade.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\ProfissionalEspecialidade.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\ProfissionalEspecialidade.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\ProfissionalEspecialidade.cs",
-              "RelativeToolTip": "Consultorio\\Models\\Entities\\ProfissionalEspecialidade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T00:08:10.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProfissionalMap.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\ProfissionalMap.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Map\\ProfissionalMap.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\ProfissionalMap.cs",
-              "RelativeToolTip": "Consultorio\\Map\\ProfissionalMap.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T23:20:43.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Profissional.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Profissional.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Profissional.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Profissional.cs",
-              "RelativeToolTip": "Consultorio\\Models\\Entities\\Profissional.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T00:42:25.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Especialidade.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Especialidade.cs",
               "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Especialidade.cs",
               "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Especialidade.cs",
               "RelativeToolTip": "Consultorio\\Models\\Entities\\Especialidade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T00:40:52.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Base.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Base.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Base.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Base.cs",
-              "RelativeToolTip": "Consultorio\\Models\\Entities\\Base.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:32:50.021Z",
+              "WhenOpened": "2024-09-03T23:12:08.261Z",
               "EditorCaption": ""
             },
             {
@@ -250,236 +97,183 @@
               "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Paciente.cs",
               "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Paciente.cs",
               "RelativeToolTip": "Consultorio\\Models\\Entities\\Paciente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T00:41:15.111Z",
+              "WhenOpened": "2024-09-03T23:13:55.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PacienteMap.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\PacienteMap.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Map\\PacienteMap.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\PacienteMap.cs",
-              "RelativeToolTip": "Consultorio\\Map\\PacienteMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Profissional.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Profissional.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Profissional.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Profissional.cs",
+              "RelativeToolTip": "Consultorio\\Models\\Entities\\Profissional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T23:19:33.123Z",
+              "WhenOpened": "2024-09-03T23:12:42.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Services\\IEmailService.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Services\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Services\\IEmailService.cs",
-              "RelativeToolTip": "Consultorio\\Services\\IEmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "ProfissionalEspecialidade.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\ProfissionalEspecialidade.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\ProfissionalEspecialidade.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\ProfissionalEspecialidade.cs",
+              "RelativeToolTip": "Consultorio\\Models\\Entities\\ProfissionalEspecialidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T22:04:58.1Z",
+              "WhenOpened": "2024-09-03T23:10:14.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Services\\EmailService.cs",
-              "RelativeToolTip": "Consultorio\\Services\\EmailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAMAAAA",
+              "DocumentIndex": 4,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Agendamento.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Agendamento.cs",
+              "RelativeToolTip": "Consultorio\\Models\\Entities\\Agendamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T21:54:12.266Z",
+              "WhenOpened": "2024-09-04T00:02:37.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EspecialidadeMap.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\EspecialidadeMap.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Map\\EspecialidadeMap.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\EspecialidadeMap.cs",
-              "RelativeToolTip": "Consultorio\\Map\\EspecialidadeMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "DocumentIndex": 6,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Base.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Base.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Base.cs",
+              "RelativeToolTip": "Consultorio\\Models\\Entities\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T23:19:09.738Z",
+              "WhenOpened": "2024-09-03T23:12:07.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20240902231138_Relacionamentos.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240902231138_Relacionamentos.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240902231138_Relacionamentos.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240902231138_Relacionamentos.cs",
-              "RelativeToolTip": "Consultorio\\Migrations\\20240902231138_Relacionamentos.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAgwAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T23:11:38.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BaseMap.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\BaseMap.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Map\\BaseMap.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\BaseMap.cs",
-              "RelativeToolTip": "Consultorio\\Map\\BaseMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:46:39.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ConsultaMap.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\ConsultaMap.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Map\\ConsultaMap.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\ConsultaMap.cs",
-              "RelativeToolTip": "Consultorio\\Map\\ConsultaMap.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:55:06.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "Consulta.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Consulta.cs",
               "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Consulta.cs",
               "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Consulta.cs",
               "RelativeToolTip": "Consultorio\\Models\\Entities\\Consulta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T00:35:31.262Z",
+              "WhenOpened": "2024-09-03T23:13:59.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20240902230206_One To Many.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240902230206_One To Many.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240902230206_One To Many.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240902230206_One To Many.cs",
-              "RelativeToolTip": "Consultorio\\Migrations\\20240902230206_One To Many.cs",
+              "DocumentIndex": 7,
+              "Title": "Consultorio",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Consultorio.csproj",
+              "RelativeDocumentMoniker": "Consultorio\\Consultorio.csproj",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Consultorio.csproj",
+              "RelativeToolTip": "Consultorio\\Consultorio.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T23:54:43.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfissionalMap.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\ProfissionalMap.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Map\\ProfissionalMap.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\ProfissionalMap.cs",
+              "RelativeToolTip": "Consultorio\\Map\\ProfissionalMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:09:21.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PacienteMap.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\PacienteMap.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Map\\PacienteMap.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\PacienteMap.cs",
+              "RelativeToolTip": "Consultorio\\Map\\PacienteMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:11:19.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EspecialidadeMap.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\EspecialidadeMap.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Map\\EspecialidadeMap.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\EspecialidadeMap.cs",
+              "RelativeToolTip": "Consultorio\\Map\\EspecialidadeMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:10:09.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\ConsultaMap.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Map\\ConsultaMap.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\ConsultaMap.cs",
+              "RelativeToolTip": "Consultorio\\Map\\ConsultaMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:11:42.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseMap.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\BaseMap.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Map\\BaseMap.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\BaseMap.cs",
+              "RelativeToolTip": "Consultorio\\Map\\BaseMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T23:02:06.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T23:24:32.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 13,
+              "Title": "20240903232130_Many to MAny.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903232130_Many to MAny.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240903232130_Many to MAny.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903232130_Many to MAny.cs",
+              "RelativeToolTip": "Consultorio\\Migrations\\20240903232130_Many to MAny.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:21:30.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ConsultorioContext.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Context\\ConsultorioContext.cs",
               "RelativeDocumentMoniker": "Consultorio\\Context\\ConsultorioContext.cs",
               "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Context\\ConsultorioContext.cs",
               "RelativeToolTip": "Consultorio\\Context\\ConsultorioContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T22:27:31.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T23:10:25.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20240830001812_atualizando.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240830001812_atualizando.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240830001812_atualizando.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240830001812_atualizando.cs",
-              "RelativeToolTip": "Consultorio\\Migrations\\20240830001812_atualizando.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "DocumentIndex": 15,
+              "Title": "20240903231039_Novas tabelas.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903231039_Novas tabelas.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240903231039_Novas tabelas.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903231039_Novas tabelas.cs",
+              "RelativeToolTip": "Consultorio\\Migrations\\20240903231039_Novas tabelas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T00:18:12.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Program.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Program.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Program.cs",
-              "RelativeToolTip": "Consultorio\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAhwCIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T22:20:08.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AgendamentoController.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Controllers\\AgendamentoController.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Controllers\\AgendamentoController.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Controllers\\AgendamentoController.cs",
-              "RelativeToolTip": "Consultorio\\Controllers\\AgendamentoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T22:37:46.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\appsettings.json",
-              "RelativeDocumentMoniker": "Consultorio\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\appsettings.json",
-              "RelativeToolTip": "Consultorio\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-20T22:20:12.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Consultorio.csproj",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Consultorio.csproj",
-              "RelativeDocumentMoniker": "Consultorio\\Consultorio.csproj",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Consultorio.csproj",
-              "RelativeToolTip": "Consultorio\\Consultorio.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-20T22:23:13.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20240827001408_atualizando nomes.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240827001408_atualizando nomes.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240827001408_atualizando nomes.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240827001408_atualizando nomes.cs",
-              "RelativeToolTip": "Consultorio\\Migrations\\20240827001408_atualizando nomes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T00:14:08.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Consultorio\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\appsettings.Development.json",
-              "RelativeToolTip": "Consultorio\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-22T23:07:25.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Consultorio\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Consultorio\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-20T22:21:02.3Z"
+              "WhenOpened": "2024-09-03T23:10:39.609Z"
             }
           ]
         }
