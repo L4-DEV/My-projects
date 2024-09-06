@@ -1,7 +1,9 @@
 
 using Consultorio.Context;
-using Consultorio.Services;
+using Consultorio.Repository;
+using Consultorio.Repository.Interfaces;
 using Microsoft.EntityFrameworkCore;
+
 
 namespace Consultorio
 {
@@ -13,7 +15,12 @@ namespace Consultorio
 
             // Add services to the container.
 
-            builder.Services.AddControllers();
+            builder.Services.AddControllers().AddNewtonsoftJson(options => {
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+            });
+            
+            builder.Services.AddScoped<IBaseRepository, BaseRepository>();
+            builder.Services.AddScoped<IPacienteRepository, PacienteRepository>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
             string mySqlConnection =
@@ -33,7 +40,8 @@ namespace Consultorio
             builder.Services.AddSwaggerGen();
 
 
-            builder.Services.AddScoped<IEmailService, EmailService>();
+           
+
 
 
             var app = builder.Build();

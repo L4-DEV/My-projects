@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\repository\\interfaces\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\repository\\interfaces\\pacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\repository\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\repository\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\repository\\interfaces\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\repository\\interfaces\\ipacienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|solutionrelative:consultorio\\models\\entities\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5281432-6F29-408A-8964-2B0DFB813A88}|Consultorio\\Consultorio.csproj|c:\\users\\lucas\\source\\repos\\consultorio\\consultorio\\models\\entities\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,24 +98,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Especialidade.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Especialidade.cs",
-              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Especialidade.cs",
-              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Especialidade.cs",
-              "RelativeToolTip": "Consultorio\\Models\\Entities\\Especialidade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "IPacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Repository\\Interfaces\\IPacienteRepository.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Repository\\Interfaces\\IPacienteRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Repository\\Interfaces\\IPacienteRepository.cs",
+              "RelativeToolTip": "Consultorio\\Repository\\Interfaces\\IPacienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T23:12:08.261Z",
+              "WhenOpened": "2024-09-05T23:21:46.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Repository\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Repository\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Repository\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Consultorio\\Repository\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:14:01.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Repository\\Interfaces\\PacienteRepository.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Repository\\Interfaces\\PacienteRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Repository\\Interfaces\\PacienteRepository.cs",
+              "RelativeToolTip": "Consultorio\\Repository\\Interfaces\\PacienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:26:21.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Consultorio\\Controllers\\PacienteController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:33:17.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Program.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Program.cs",
+              "RelativeToolTip": "Consultorio\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:33:57.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Paciente.cs",
               "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Paciente.cs",
@@ -104,7 +180,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "Consultorio\\Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:20:39.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Especialidade.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Especialidade.cs",
+              "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Especialidade.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Especialidade.cs",
+              "RelativeToolTip": "Consultorio\\Models\\Entities\\Especialidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:12:08.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Profissional.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Profissional.cs",
               "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Profissional.cs",
@@ -117,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ProfissionalEspecialidade.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\ProfissionalEspecialidade.cs",
               "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\ProfissionalEspecialidade.cs",
@@ -130,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Agendamento.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Agendamento.cs",
               "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Agendamento.cs",
@@ -143,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Base.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Base.cs",
               "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Base.cs",
@@ -156,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Consulta.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Models\\Entities\\Consulta.cs",
               "RelativeDocumentMoniker": "Consultorio\\Models\\Entities\\Consulta.cs",
@@ -169,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Consultorio",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Consultorio.csproj",
               "RelativeDocumentMoniker": "Consultorio\\Consultorio.csproj",
@@ -181,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "ProfissionalMap.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\ProfissionalMap.cs",
               "RelativeDocumentMoniker": "Consultorio\\Map\\ProfissionalMap.cs",
@@ -189,11 +291,12 @@
               "RelativeToolTip": "Consultorio\\Map\\ProfissionalMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAIwCQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T23:09:21.904Z"
+              "WhenOpened": "2024-09-03T23:09:21.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "PacienteMap.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\PacienteMap.cs",
               "RelativeDocumentMoniker": "Consultorio\\Map\\PacienteMap.cs",
@@ -201,11 +304,12 @@
               "RelativeToolTip": "Consultorio\\Map\\PacienteMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T23:11:19.262Z"
+              "WhenOpened": "2024-09-03T23:11:19.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "EspecialidadeMap.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\EspecialidadeMap.cs",
               "RelativeDocumentMoniker": "Consultorio\\Map\\EspecialidadeMap.cs",
@@ -213,11 +317,12 @@
               "RelativeToolTip": "Consultorio\\Map\\EspecialidadeMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T23:10:09.805Z"
+              "WhenOpened": "2024-09-03T23:10:09.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "ConsultaMap.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\ConsultaMap.cs",
               "RelativeDocumentMoniker": "Consultorio\\Map\\ConsultaMap.cs",
@@ -225,11 +330,12 @@
               "RelativeToolTip": "Consultorio\\Map\\ConsultaMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T23:11:42.139Z"
+              "WhenOpened": "2024-09-03T23:11:42.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "BaseMap.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Map\\BaseMap.cs",
               "RelativeDocumentMoniker": "Consultorio\\Map\\BaseMap.cs",
@@ -237,23 +343,23 @@
               "RelativeToolTip": "Consultorio\\Map\\BaseMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T23:24:32.311Z"
+              "WhenOpened": "2024-09-03T23:24:32.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "20240903232130_Many to MAny.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903232130_Many to MAny.cs",
               "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240903232130_Many to MAny.cs",
               "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903232130_Many to MAny.cs",
               "RelativeToolTip": "Consultorio\\Migrations\\20240903232130_Many to MAny.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T23:21:30.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "ConsultorioContext.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Context\\ConsultorioContext.cs",
               "RelativeDocumentMoniker": "Consultorio\\Context\\ConsultorioContext.cs",
@@ -261,17 +367,17 @@
               "RelativeToolTip": "Consultorio\\Context\\ConsultorioContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T23:10:25.881Z"
+              "WhenOpened": "2024-09-03T23:10:25.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "20240903231039_Novas tabelas.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903231039_Novas tabelas.cs",
               "RelativeDocumentMoniker": "Consultorio\\Migrations\\20240903231039_Novas tabelas.cs",
               "ToolTip": "C:\\Users\\Lucas\\source\\repos\\Consultorio\\Consultorio\\Migrations\\20240903231039_Novas tabelas.cs",
               "RelativeToolTip": "Consultorio\\Migrations\\20240903231039_Novas tabelas.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T23:10:39.609Z"
             }
